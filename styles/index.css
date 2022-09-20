@@ -1,0 +1,13 @@
+body{
+    margin-top: 10px;
+}
+.float-end{
+    margin-left: 10px;
+}
+.delete-checkbox{
+    display:flex;
+    position: relative;
+    margin-left: -23px;
+    margin-top: -23px;
+    border-color: black;
+}
